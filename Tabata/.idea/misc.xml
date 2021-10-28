@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/action_buttons_borders.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_add.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_delete.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_delete_dark.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_delete_light.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_next.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_pause.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_pause_dark.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_pause_light.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_prev.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_settings.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_settings_dark.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_settings_light.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_timer.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/ic_timer_launch_background.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/drawable/launch_screen.xml" value="0.3828125" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/layout/activity_settings.xml" value="0.2957427536231884" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/layout/activity_timer.xml" value="0.2957427536231884" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/layout/fragment_tabata_edit.xml" value="0.2957427536231884" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/layout/fragment_tabata_list.xml" value="0.2957427536231884" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/layout/recyclerview_item.xml" value="0.5" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/mipmap-anydpi-v26/ic_timer_launch.xml" value="0.22135416666666666" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/xml/customborders.xml" value="0.36666666666666664" />
+        <entry key="..\:/dev/study/Tabata/Tabata/app/src/main/res/xml/root_preferences.xml" value="0.2957427536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

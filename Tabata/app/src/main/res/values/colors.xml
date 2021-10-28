@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Dark">#C9B0D3</color>
+    <color name="Light">#303443</color>
+    <color name="Primary">#C9B0D3</color>
+    <color name="colorHighlight">#FF0000</color>
+    <color name="Text">#303443</color>
+    <color name="Background">#C9B0D3</color>
+    <color name="Borders">#371C1C</color>
+    <color name="Title">#443B51</color>
+</resources>
